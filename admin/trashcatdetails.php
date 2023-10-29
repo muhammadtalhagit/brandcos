@@ -73,7 +73,7 @@ if(mysqli_num_rows($cat_query) > 0 ){
                 <div class="row g-4">
                       <div class="col-12">
                         <div class="bg-secondary rounded h-100 p-4">
-                            <h6 class="mb-4">Responsive Table</h6>
+                            <h3 class="mb-4 text-primary">View Trash Categories</h3>
                             <div class="table-responsive">
                                 <table class="table table-bordered text-white">
                                     <thead>
